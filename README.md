@@ -1,4 +1,4 @@
-# Metodos de Busqueda Inteligente
+# Métodos de Búsqueda Inteligente
 
 ## Aplicación de los métodos de búsqueda por amplitud y búsqueda por coste uniforme
 
