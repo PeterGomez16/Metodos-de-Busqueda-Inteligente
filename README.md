@@ -13,3 +13,4 @@ Para ejecutar la interfaz simplemente se debe correr el archivo **main.py**.
 - *frame.py* : Código donde se construyen los frames, botones, cuadros de texto y la ventana de la interfaz gràfica.
 - *main.py* : Ejecuta la ventana de la interfaz gràfica.
 - *Busqueda_Inteligente.ipynb* : Cuaderno de Jupyter de la actividad didáctica propuesta. 
+- Carpeta *imagenes* : Contiene tanto las imágenes de los mapas incluidos definidos en *mapas.py* como las imágenes insertadas en el cuaderno de Jupyter.
