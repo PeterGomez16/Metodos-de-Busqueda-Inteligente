@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Mapa_prueba.json</name>
+			<type>1</type>
+			<location>/home/peter/IE0217_Workspace/eclipse-workspace/Metodos-de-Busqueda-Inteligente.git/Mapa_prueba.json</location>
+		</link>
+	</linkedResources>
 </projectDescription>

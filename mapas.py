@@ -1,5 +1,6 @@
-class Mapa:
-    
+import json
+
+class Mapa: 
     mapa1 = {
         'a1':{'b1':1, 'a2':1},
         'a2':{'a1':1, 'a3':1},
@@ -14,7 +15,7 @@ class Mapa:
         'd3':{'d2':1, 'd4':1},
         'd4':{'d3':1, 'c4':2}
     }
-
+    
     mapa2 = {
         'a1':{'b1':1, 'a2':1},
         'a2':{'a1':1, 'a3':1},
@@ -115,4 +116,12 @@ class Mapa:
         'j9':{'j8':1, 'j10':1},
         'j10':{'j9':1, 'i10':2}
     }
-
+    
+    f= open('Mapa_prueba.json')
+    mapaPrueba = json.load(f)
+#==========================================================================================
+'''
+object = Mapa()
+prueba = object.mapaPrueba
+print(prueba)
+'''

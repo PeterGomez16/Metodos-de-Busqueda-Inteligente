@@ -16,4 +16,4 @@ def main():  #Ejecuta la interfaz grafica
 
 if __name__=="__main__":
     main()
-    print("Cambio de prueba")
+    
